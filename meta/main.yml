@@ -20,6 +20,4 @@ galaxy_info:
   - system
   - development
 
-dependencies:
-  - role: bastly.zeromq
-  - role: bastly.nodejs
+dependencies: []
